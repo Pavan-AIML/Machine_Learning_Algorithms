@@ -1,0 +1,1 @@
+<h1> In this project I have implemented all the machine-learning-algorithms those I studied in my machine learning course at Univerty and uploadeed here as the previous github account was locked. </h1>
